@@ -1,7 +1,7 @@
 # Contact Management Portal
 
 # System Design:
-![image](https://github.com/harshaltayade7/contact-management-ui/assets/41384406/828788b1-7b9e-4805-861d-0c06c839d24f)
+![SYS-DESIGN](https://github.com/harshaltayade7/contact-management-ui/assets/41384406/dd1e915d-9663-4925-830b-39d88301721e)
 
 
 
